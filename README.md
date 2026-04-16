@@ -1,6 +1,4 @@
-# sql_data_warehouse_project
 -
-Building a modern data warehouse with Mysql , including ETL processes , data modeling and analytics . 
 Overview
 This project demonstrates how to build a modern SQL Data Warehouse from scratch, covering the full lifecycle—from raw data ingestion to analytics-ready datasets.
 It simulates real-world responsibilities across multiple roles:
