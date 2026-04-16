@@ -28,10 +28,9 @@ Providing a single source of truth
 Enabling fast, automated reporting
 Improving data consistency & accuracy
 Supporting scalable analytics
+
 🏗️ Project Architecture
-
 The project follows a structured approach to designing a data warehouse:
-
 🔹 Data Warehouse Approach
 Focused on structured data for reporting & BI
 Built using SQL Server
@@ -40,6 +39,8 @@ Designed for analytical queries
 Raw Layer – ingest data from source systems
 Processed Layer – clean and standardize data
 Presentation Layer – analytics-ready datasets
+
+
 🚀 Project Phases
 1. Requirements Analysis
 Define business goals and reporting needs
@@ -62,12 +63,15 @@ Generate insights such as:
 Sales trends
 Customer behavior
 Product performance
+
+-
 🧰 Tech Stack
 Database: SQL Server
 Language: T-SQL
 Data Source: CSV files (ERP & CRM)
 Version Control: Git & GitHub
 Documentation & Design: Draw.io, Notion
+-
 📂 Repository Structure
 sql-data-warehouse-project/
 │
@@ -77,12 +81,15 @@ sql-data-warehouse-project/
 ├── tests/           # Testing scripts
 ├── README.md        # Project documentation
 └── LICENSE
---
+
+
 🎯 Project Goals
 Build a scalable data warehouse
 Ensure high data quality
 Create a centralized analytical model
 Enable business insights through SQL queries
+
+
 💡 Key Learnings
 End-to-end data warehouse design
 Building ETL pipelines
