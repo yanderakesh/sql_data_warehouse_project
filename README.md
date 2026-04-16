@@ -1,4 +1,5 @@
 Modern SQL Data Warehouse Project
+
 📌 Overview
 
 This project demonstrates how to build a modern SQL Data Warehouse from scratch, covering the full lifecycle—from raw data ingestion to analytics-ready datasets.
@@ -76,6 +77,7 @@ sql-data-warehouse-project/
 ├── tests/           # Testing scripts
 ├── README.md        # Project documentation
 └── LICENSE
+--
 🎯 Project Goals
 Build a scalable data warehouse
 Ensure high data quality
